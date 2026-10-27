@@ -2,12 +2,17 @@ Origin: DeviceLab
 Label: DeviceLab Lab Repository
 Suite: stable
 Codename: stable
+Version: 1.0
 Architectures: iphoneos-arm64
+Components: main
 Description: Rootless DeviceLab package for authorized lab devices
-Date: Tue, 27 Oct 2026 01:27:24 +0000
+Date: Tue, 27 Oct 2026 02:00:09 +0000
 MD5Sum:
  9683da07d2fe40ab465cc29f21a4e09a 546 Packages
  e8ffb11cbd57e91a8705d383a8602b35 388 Packages.gz
+SHA1:
+ b746a3baf436b00b0872cca03d1ba8b518c78373 546 Packages
+ 0964e8d834abc7b932c936245c1ca1733c4dcd50 388 Packages.gz
 SHA256:
  0a75c201eef561076046dc359d632445b32b12fe869e1d509e046ea62c251afb 546 Packages
  eaf314313ffbc7d585b00e03ab46a115d8997f2ca2a6563767417361e9bd7f27 388 Packages.gz
