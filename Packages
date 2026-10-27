@@ -1,0 +1,16 @@
+Package: com.lab.devicefingerprint
+Name: Device Fingerprint Lab
+Description: Lab-only device profile controller and API hook for a configured test bundle.
+Maintainer: Lab
+Author: Lab
+Section: Development
+Depends: firmware (>= 15.0), ellekit
+Conflicts: com.lab.crashlyticsdyldfilter
+Architecture: iphoneos-arm64
+Version: 2.2.3-1
+Installed-Size: 620
+Filename: ./pool/com.lab.devicefingerprint_2.2.3-1_iphoneos-arm64.deb
+Size: 107594
+MD5sum: 4dda965293b40826ba83c1467fe70a14
+SHA256: d1f44364e7416d26d8f5d078f9797b6f4c99aeb84ab47ab278906868ed8c1d5b
+
